@@ -1,6 +1,6 @@
 # CS560_HW2_Pizza_Order
 
-##Objectives
+## Objectives
 The purpose of this assignment is to practice a little more advance graphical layout than you did in HW1 and improve your skills in the areas below:
 * Using constraint layouts to design user interfaces
 * Usingwidgets and events to change content dynamicallyin a graphical user interface
