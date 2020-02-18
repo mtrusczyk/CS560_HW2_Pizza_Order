@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2 Pizza Order</string>
+    <string name="header_value">Pizza Order</string>
+    <string name="extra_toppings">Extra Toppings ($1.69 each)</string>
+    <string name="pizza_size">Pizza Size</string>
+    <string name="pizza_type">Pizza Type</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizza_sizes">
+        <item>Medium ($9.99)</item>
+        <item>Large ($13.99)</item>
+        <item>XLarge ($15.99)</item>
+    </string-array>
+    <string-array name="pizza_types">
+        <item>Pepperoni</item>
+        <item>Margheritta</item>
+        <item>Hawaiian</item>
+        <item>BBQ Chicken</item>
+    </string-array>
+</resources>
